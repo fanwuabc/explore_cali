@@ -1,4 +1,5 @@
 tempfile*.txt
+tras*.txt
 .DS_Store
 *.zip
 *.gz
